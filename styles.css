@@ -1,0 +1,15 @@
+.navbar  {
+    background-color: aqua;
+    padding: 16px;
+    display: flex;
+    gap: 20px;
+}
+.navbar a {
+    color: black;
+    font-weight: 60px;
+    font-size: 100px;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
